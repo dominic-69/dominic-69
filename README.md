@@ -1,35 +1,46 @@
-# Hi there 👋
+# 👨‍💻 Hi, I'm Dominic
 
-<div align="center">
-  <a href="https://github.com/dominic-69">
-    <img width="300" src="https://github.com/dominic-69.png" alt="avatar"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Problem+Solver;Curious+by+Nature" alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+I'm a developer who loves building things that live on the internet. My focus is on creating smooth user experiences and robust backends.
+
+* 🔭 **Current Project:** Exploring advanced system architectures.
+* 🌱 **Learning:** Deep diving into TypeScript and Cloud Native patterns.
+* 💬 **Ask me about:** React, Node.js, and why clean code matters.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,windows" />
   </a>
-  
-  <h2>I'm <b>dominic-69</b> — a curious dev & lifelong learner 🚀</h2>
+</p>
 
-  <!-- Animated gradient banner -->
-  <svg width="100%" height="80" viewBox="0 0 100 20" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1">
-        <stop stop-color="#00b4db">
-          <animate attributeName="stop-color" values="#00b4db;#0083b0;#7b2ff7;#00b4db" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="1" stop-color="#0083b0">
-          <animate attributeName="stop-color" values="#0083b0;#7b2ff7;#00b4db;#0083b0" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="100" height="20" fill="url(#g)" />
-  </svg>
+---
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="status" />
-    <img src="https://img.shields.io/badge/stack-JavaScript-blue?style=for-the-badge" alt="js" />
-    <img src="https://img.shields.io/badge/framework-React-informational?style=for-the-badge" alt="react" />
-    <img src="https://img.shields.io/badge/OS-Windows-lightgrey?style=for-the-badge" alt="os" />
-  </p>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dominic-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominic-69&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-69&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" />
+</p>
 
 ---
 
