@@ -1,99 +1,65 @@
-# 👨‍💻 Hi, I'm Dominic
+# <p align="center">✨ 𝖣𝖮𝖬𝖨𝖭𝖨𝖢 · 𝖣𝖤𝖲𝖨𝖦𝖭𝖲 ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Problem+Solver;Curious+by+Nature" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=CREATING%20BEYOND%20LIMITS&fontSize=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=Full+Stack+Wizard;Visual+Storyteller;Architect+of+Pixels;Code+Artisan" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
-I'm a developer who loves building things that live on the internet. My focus is on creating smooth user experiences and robust backends.
-
-* 🔭 **Current Project:** Exploring advanced system architectures.
-* 🌱 **Learning:** Deep diving into TypeScript and Cloud Native patterns.
-* 💬 **Ask me about:** React, Node.js, and why clean code matters.
+### 🌌 THE OVERVIEW
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
+      <b>🚀 CURRENT MISSION</b><br>
+      <i>"Building digital bridges between imagination and reality."</i>
+      <br><br>
+      • 🔭 Exploring <b>Three.js & Shaders</b><br>
+      • ⚡ Speed-running <b>Backend Optimization</b><br>
+      • 🎨 Crafting <b>Ultra-Modern UIs</b>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-69&layout=compact&theme=pride&hide_border=true&bg_color=0D1117" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠 Tech Stack
-
-<p align="left">
+### 🛠️ THE ARSENAL (TECH STACK)
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,windows" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,threejs,figma,postman,docker,linux&perline=6" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+### 🏆 THE TROPHY CABINET
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dominic-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominic-69&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-69&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dominic-69&theme=juicyfresh&column=4&margin-w=15&no-bg=true" alt="trophy" />
 </p>
 
 ---
 
+### 📊 DATA VISUALIZATION
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominic-69&show_icons=true&theme=calm&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominic-69&theme=calm&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔭 About Me
-
-💻 I build things with **JavaScript**, **React**, and **Node.js**.  
-🎯 I enjoy exploring **frontend performance**, **clean UI design**, and **problem solving**.  
-🧠 I believe in learning by doing — small projects, code challenges, and open-source.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React patterns (hooks, context, memoization)
-- Redux Toolkit and Middleware
-- REST APIs & async handling (Promises, Fetch, Async/Await)
-- Clean code architecture & optimization
-
----
-
-## 🛠 Tech Stack
-
-
-Badges & icons are a quick way to show the stack — you can use shields or icons from `simpleicons.org`.
-
----
-
-## 📊 GitHub Stats & Graphs
-
+### 🔮 CONNECT WITH THE CORE
 <p align="center">
-  <img alt="Dominic's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dominic-69&show_icons=true&count_private=true&theme=radical" />
+<a href="https://yourlink.com"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://yourlink.com"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://yourlink.com"><img src="https://img.shields.io/badge/-Portfolio-00B4DB?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-69&layout=compact&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&flip=false" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominic-69&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-## 📈 Skill Chart (QuickChart)
-
-![Skill chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','React','Node','CSS'],datasets:[{data:[40,30,15,15]}]}})
-
----
-
-## 🎨 Animated Section Example
-
-Here’s a small SVG animation you can embed:
-
-
-
-
