@@ -21,7 +21,7 @@ I am a passion-driven **Full Stack Developer** specializing in building robust b
 ## 🎮 My Contribution Snake Game
 <!-- The snake eating your GitHub contributions! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Grid" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dominic-69/dominic-69/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Grid" width="100%"/>
 </p>
 
 ---
@@ -52,13 +52,13 @@ I am a passion-driven **Full Stack Developer** specializing in building robust b
 ## 📊 Animated Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&ring=00F0FF&fire=FF007F" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominic-69&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominic-69&theme=radical&hide_border=false&ring=00F0FF&fire=FF007F" width="49%" />
 </p>
 
 ### 📈 Skill Levels
 <p align="center">
-  <img src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=dominic-69&theme=radical" width="100%" />
 </p>
 
 ---
@@ -73,11 +73,14 @@ I am a passion-driven **Full Stack Developer** specializing in building robust b
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/dominic-m-bince-4168ab36a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/dominic-69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-110000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://69c3b326cda4cd43b39b0cb3--eclectic-scone-23d0d4.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=netlify&logoColor=black" />
   </a>
 </p>
 
